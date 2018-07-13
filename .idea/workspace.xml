@@ -2,10 +2,336 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a9af740-a543-45b8-b0e3-71f8035e06a1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scan2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_bing_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scan3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/metaSlate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/metaSlate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000003.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000007.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000026.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000033.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000035.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000036.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000038.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000041.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000042.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000043.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000044.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000045.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000046.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000049.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000053.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000056.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000059.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000068.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000069.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000070.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000071.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000072.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000074.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000075.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000076.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000078.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000079.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000080.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000081.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000082.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000083.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000084.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000085.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000086.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000087.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000088.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000089.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000091.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000092.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000093.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000094.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000095.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000096.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000097.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000098.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000099.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000103.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000113.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000120.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000132.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000135.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000137.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000140.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000144.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000147.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000148.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000149.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000153.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000155.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000156.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000158.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000159.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000162.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000163.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000164.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000165.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000167.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000168.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000169.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000170.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000171.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000173.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000174.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000176.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000177.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000178.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000179.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000180.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000181.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000182.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000183.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000186.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000187.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000189.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000191.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000192.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000194.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000199.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000201.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000202.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000205.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000207.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000208.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000212.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000213.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000216.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000217.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000219.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000222.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000223.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000224.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000225.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000226.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000227.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000228.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000229.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000230.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000231.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000233.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000234.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000235.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000237.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000239.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000240.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000241.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000243.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000245.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000246.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000247.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000248.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000251.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000252.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000255.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000257.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000259.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000261.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000262.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000264.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000267.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000268.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000271.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000272.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000274.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000276.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000277.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000278.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000279.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000283.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000284.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000285.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000286.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000287.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000291.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000292.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000296.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000297.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000299.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000307.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000308.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000309.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000310.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000312.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000314.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000315.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000316.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000317.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000318.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000321.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000323.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000325.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000326.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000327.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000329.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000330.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000331.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000332.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000336.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000338.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000340.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000341.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000342.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000344.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000345.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000346.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000347.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000349.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000350.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000351.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000352.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000354.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000355.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000356.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000359.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000360.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000361.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000362.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000364.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000366.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000367.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000368.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000371.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000372.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000373.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000374.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000376.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000377.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000378.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000379.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000380.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000381.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000382.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000386.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000387.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000388.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000389.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000392.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000393.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000394.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000395.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000396.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000397.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000398.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000399.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000400.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000405.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000406.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000407.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000410.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000411.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000412.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000413.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000417.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000418.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000419.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exampleMovieSlate/00000420.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +357,8 @@
       <file leaf-file-name="scan2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scan2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            <state relative-caret-position="170">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -40,7 +366,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search_bing_api.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="scan3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scan3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="331" selection-start-line="331" selection-end-line="331" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search_bing_api.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/search_bing_api.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
@@ -58,6 +405,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Setup Script" />
       </list>
     </option>
   </component>
@@ -70,6 +418,7 @@
         <option value="$PROJECT_DIR$/scan.py" />
         <option value="$PROJECT_DIR$/scan2.py" />
         <option value="$PROJECT_DIR$/search_bing_api.py" />
+        <option value="$PROJECT_DIR$/scan3.py" />
       </list>
     </option>
   </component>
@@ -103,12 +452,16 @@
               <item name="metaSlate" type="b2602c69:ProjectViewProjectNode" />
               <item name="metaSlate" type="462c0819:PsiDirectoryNode" />
               <item name="dataset" type="462c0819:PsiDirectoryNode" />
-              <item name="exampleMovieSlate" type="462c0819:PsiDirectoryNode" />
+              <item name="slateExamples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="metaSlate" type="b2602c69:ProjectViewProjectNode" />
               <item name="metaSlate" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="metaSlate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -133,7 +486,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.search_bing_api">
+  <component name="RunManager" selected="Python.scan3">
     <configuration name="scan" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="metaSlate" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,6 +523,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="scan3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="metaSlate" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scan3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="search_bing_api" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="metaSlate" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,12 +563,14 @@
       <item itemvalue="Python.scan" />
       <item itemvalue="Python.scan2" />
       <item itemvalue="Python.search_bing_api" />
+      <item itemvalue="Python.scan3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scan3" />
+        <item itemvalue="Python.scan2" />
         <item itemvalue="Python.search_bing_api" />
         <item itemvalue="Python.scan" />
-        <item itemvalue="Python.scan2" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +585,14 @@
       <option name="presentableId" value="Default" />
       <updated>1531495242547</updated>
     </task>
+    <task id="LOCAL-00001" summary="delete corrupt images">
+      <created>1531504341054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531504341054</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -220,12 +601,12 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20758693" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286638" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286638" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.3286638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2650862" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" weight="0.2650862" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978448" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -239,16 +620,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete corrupt images" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete corrupt images" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scan2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scan.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -260,8 +643,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="331" selection-start-line="331" selection-end-line="331" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scan2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/search_bing_api.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -269,6 +666,16 @@
           <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
           <folding>
             <element signature="e#406#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scan3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
